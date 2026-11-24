@@ -1,0 +1,8 @@
+/target/
+/dist/
+/.build/
+/android/.gradle/
+/android/.kotlin/
+/android/local.properties
+/android/**/build/
+*.jks
